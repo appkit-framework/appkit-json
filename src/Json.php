@@ -27,7 +27,7 @@ class Json {
         }
     }
 
-    public function decode($json, $assoc = true) {
+    public static function decode($json, $assoc = true) {
         try {
             return json_decode(
                 $json,
