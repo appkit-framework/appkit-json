@@ -2,6 +2,6 @@
 
 namespace AppKit\Json\Exception;
 
-use AppKit\Exception\AppKitException;
+use Exception;
 
-class JsonException extends AppKitException {}
+class JsonException extends Exception {}
