@@ -1,5 +1,5 @@
 <?php
 
-namespace AppKit\Json\Exception;
+namespace AppKit\Json;
 
 class JsonEncodingException extends JsonException {}

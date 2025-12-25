@@ -1,6 +1,6 @@
 <?php
 
-namespace AppKit\Json\Exception;
+namespace AppKit\Json;
 
 use Exception;
 

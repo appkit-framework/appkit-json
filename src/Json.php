@@ -2,9 +2,6 @@
 
 namespace AppKit\Json;
 
-use AppKit\Json\Exception\JsonEncodingException;
-use AppKit\Json\Exception\JsonDecodingException;
-
 use Throwable;
 
 class Json {
